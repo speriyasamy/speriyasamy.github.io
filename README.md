@@ -1,2 +1,1 @@
-# speriyasamy.github.io
-Peri's blog
+# Peri's blog
